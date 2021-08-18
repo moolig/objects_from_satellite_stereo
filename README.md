@@ -1,0 +1,1 @@
+# objects_from_satellite_stereo
