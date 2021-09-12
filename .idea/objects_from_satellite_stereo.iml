@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/.idea" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/.idea/inspectionProfiles" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/detectron2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/detectron2/.circleci" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/detectron2/.github" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/detectron2/.idea" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/detectron2/build" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/detectron2/configs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/detectron2/datasets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/detectron2/demo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/detectron2/detectron2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/detectron2/detectron2.egg-info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/detectron2/detectron2/checkpoint" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/detectron2/detectron2/config" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/detectron2/detectron2/data" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/detectron2/detectron2/engine" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/detectron2/detectron2/evaluation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/detectron2/detectron2/export" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/detectron2/detectron2/layers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/detectron2/detectron2/model_zoo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/detectron2/detectron2/modeling" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/detectron2/detectron2/solver" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/detectron2/detectron2/structures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/detectron2/detectron2/utils" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/detectron2/dev" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/detectron2/docker" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/detectron2/docs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/detectron2/docs/modules" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/detectron2/docs/notes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/detectron2/docs/tutorials" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/detectron2/projects" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/detectron2/tests" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/detectron2/tools" isTestSource="false" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
